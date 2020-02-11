@@ -1,0 +1,19 @@
+{
+    "products" : [
+        {
+            "title" : "Banana",
+            "description" : "Yellow and long",
+            "price" : 5.00
+        },
+        {
+            "title" : "Tomato",
+            "description" : "Red and round",
+            "price" : 3.00
+        },
+        {
+            "title" : "Apple",
+            "description" : "Green and round",
+            "price" : 2.50
+        }
+    ]
+}

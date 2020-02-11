@@ -1,0 +1,16 @@
+@import-normalize; 
+@import '../../assets/styles/colors';
+h1 {
+    text-align: center;
+    color: $green;
+}
+.prods-collection {
+    text-align: center;
+}
+.prod {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
