@@ -35,7 +35,7 @@ export default class Products extends Component {
     render () {
         return (
             <>
-                <h1>Title</h1>
+                <h1>Products</h1>
                 <div className={'prods-collection'}>
                 {
                     this.state.products.map((prod, key) => (

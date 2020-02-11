@@ -16,8 +16,8 @@ export default class Checkout extends Component {
         return (
             <div className="prod-container">
                 Title: {this.state.prod.title}<br/>
-                Title: {this.state.prod.description}<br/>
-                Title: {this.state.prod.price}<br/>
+                Description: {this.state.prod.description}<br/>
+                Price: ${this.state.prod.price}<br/>
             </div>
         )
     }
